@@ -1,2 +1,2 @@
 # travel-website-project
-it is created with using HTML, CSS and responsive.
+it is created with using HTML, CSS javascript and responsive.
